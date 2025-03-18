@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 6.11 2.3">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: BaradigMedium, Baradig;
+        font-size: .37px;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(4.7 1.49)"><tspan x="0" y="0">.psd</tspan></text>
+  <path d="M5.52.12h-.6l-.31.33V.12h-1.38c-.1,0-.19.03-.26.07v-.07h-.27v.62l-.53.57h-.34c-.21,0-.36-.13-.36-.34V.12h-.69l-.44.47V.12H.07v1.38h.27v-.62L.87.31h.34v.66c0,.29.24.53.53.53h.52l.44-.47v.52c0,.21-.15.34-.36.34h-.99v.2h1.09c.29,0,.53-.24.53-.53v-.12c.08.05.17.07.26.07h.67l.44-.47v.47h.27v-.76l.39-.42h.41c.21,0,.36.13.36.34v.85h.27v-.85c0-.29-.24-.53-.53-.53ZM4.35.73l-.53.57h-.49c-.21,0-.36-.13-.36-.34v-.31c0-.21.15-.34.36-.34h1.02v.42Z"/>
+</svg>
