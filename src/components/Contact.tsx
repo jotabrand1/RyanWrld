@@ -1,7 +1,7 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
 import { motion } from 'framer-motion';
-import { Linkedin, Mail, Instagram, MessageCircleMore  } from 'lucide-react';
+import { Linkedin, Mail, Instagram, MessageCircleMore, Briefcase  } from 'lucide-react';
 
 export const Contact = () => {
   const { t } = useTranslation();
@@ -52,15 +52,15 @@ export const Contact = () => {
           >
             <MessageCircleMore size={24} />
           </motion.a>
-          {/* <motion.a
+          <motion.a
             href="https://www.behance.net/ryanwrld"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.1 }}
             className="text-gray-600 hover:text-blue-600 transition-colors"
-          > */}
-            {/* <BriefcaseBusiness size={24} />
-          </motion.a> */}
+          >
+            <Briefcase size={24} />
+          </motion.a>
         </div>
       </div>
     </section>
