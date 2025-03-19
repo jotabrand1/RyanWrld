@@ -362,7 +362,6 @@ export const Portfolio = () => {
   const [expandedDescriptions, setExpandedDescriptions] = useState({});
   const [isSwiping, setIsSwiping] = useState(false);
 
-  // Hide swipe indicator after 3 seconds
   React.useEffect(() => {
     if (selectedProject && showSwipeIndicator) {
       const timer = setTimeout(() => {
@@ -393,12 +392,10 @@ export const Portfolio = () => {
       y: e.targetTouches[0].clientY
     });
 
-    // Calculate the angle of the swipe
     const deltaX = e.targetTouches[0].clientX - touchStart.x;
     const deltaY = e.targetTouches[0].clientY - touchStart.y;
     const angle = Math.abs(Math.atan2(deltaY, deltaX) * 180 / Math.PI);
 
-    // If the angle is between 60 and 120 degrees, it's more vertical than horizontal
     if (angle > 60 && angle < 120) {
       setIsSwiping(true);
     }
