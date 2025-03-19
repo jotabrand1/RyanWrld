@@ -89,7 +89,12 @@ The graph formed by the cuts in the letter "a" is not just a design element; it 
         "17": {
           "title": "Vulcano Energy",
           "description": ""
+        },
+        "18": {
+          "title": "Vagabound",
+          "description": ""
         }
+      
       },
       "contact.title": "Let's Connect",
       "contact.email": "Email",
@@ -187,7 +192,12 @@ Comprometida com a inovação e a excelência, a Fluxbot está sempre à frente 
         "17": {
           "title": "Vulcano Energy",
           "description": ""
+        },
+        "18": {
+          "title": "Vagabound",
+          "description": ""
         }
+
       },
       "contact.title": "Vamos se Conectar",
       "contact.email": "Email",

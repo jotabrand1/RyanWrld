@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import { motion } from 'framer-motion';
-import { X, ChevronLeft, ChevronRight, MoveHorizontal } from 'lucide-react';
+import { X, ChevronLeft, ChevronRight, MoveHorizontal, Images } from 'lucide-react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination } from 'swiper/modules';
 import 'swiper/css';
@@ -223,7 +223,7 @@ const projects = [
   {
     id: 13,
     images: [
-      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1742392683/capa-behance-inspirese_medsl1.jpg",
+      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1742394287/capa-behance-inspirese-2_re4www.jpg",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724303/2_gptpcp.png",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724301/3_jcqldv.png",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724303/2_gptpcp.png",
@@ -257,7 +257,7 @@ const projects = [
   {
     id: 15,
     images: [
-      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1742392739/valu_capa_g3haq3.jpg",
+      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1742394410/5_kwm4nj.jpg",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724330/2_bkng0p.png",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724328/3_ceytdx.png",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724328/4_jq02d7.png",
@@ -291,7 +291,7 @@ const projects = [
   {
     id: 16,
     images: [
-      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724673/BNI_REDES_SOCIAIS_JULHO_JULHO_LAYOUT_post_13_okn8d9.png",
+      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1742394347/Birinight-capa_nle0rb.png",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724668/BNI_REDES_SOCIAIS_OUTUBRO_LAYOUT_RYAN_Post_10_srmmkl.gif",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724659/BNI_REDES-SOCIAIS-MAIO_22_04_LAYOUT-ALTERA%C3%87%C3%83O_swn36l.png",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724658/BNI_REDES_SOCIAIS_JUNHO_15_05_24_ALTERA%C3%87%C3%83O-post-festa-junina_yvuull.png",
@@ -308,7 +308,7 @@ const projects = [
   {
     id: 17,
     images: [
-      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724786/VUL_REDES_SOCIAIS_SETEMBRO_LAYOUT_RYAN-POST-12_ew8ix5.png",
+      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1742394377/Vulcano-capa_sqjprt.png",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724789/VUL_REDES_SOCIAIS_OUTUBRO_LAYOUT_RYAN_Post_12_g8rhuk.jpg",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724785/POST-4-_p1ixr8.png",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724794/VUL_REDES_SOCIAIS_OUTUBRO_LAYOUT_RYAN_Post_7_lx502c.gif",
@@ -328,6 +328,22 @@ const projects = [
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724811/VUL_REDES_SOCIAIS_JUNHO_15_05_24_ARTE-Post_2_B_x5vwum.png",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724810/VUL_REDES_SOCIAIS_JUNHO_15_05_24_ARTE-Post_11_A_tsphkp.png",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724809/VUL_REDES_SOCIAIS_JUNHO_15_05_24_ARTE-Post_11_B_kgveh9.png"
+
+    ]
+  },
+  {
+    id: 18,
+    images:[
+      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1742394537/1_i4kljn.jpg",
+      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1742394555/2_myhcrs.jpg",
+      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1742394556/3_cwinle.jpg",
+      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1742394558/4_nufjdt.jpg",
+      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1742394558/5_nvugz9.jpg",
+      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1742394560/6_uyx51c.jpg",
+      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1742394560/7_ekvlqw.jpg",
+      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1742394561/8_qjdzls.jpg",
+      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1742394563/9_c97v9k.jpg",
+      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1742394553/10_zy8rx5.jpg"
 
     ]
   }
