@@ -70,7 +70,7 @@ The logo of "COLÔNIA DE PESCADORES Z10 was created with symbols found in the se
         },
         "13": {
           "title": "Inspire-se",
-          "description": "Série de materiais impressos incluindo pôsteres e brochuras."
+          "description": "Inspire-se, a women's fashion brand founded in Cachoeiro de Itapemirim, was created with the mission to transform and inspire its customers. More than just clothing, we offer style, confidence, and authenticity for women who want to express themselves through fashion. With a carefully curated selection of pieces, we bring trends and elegance to everyday life."
         },
         "14": {
           "title": "JHM",
@@ -168,7 +168,7 @@ Comprometida com a inovação e a excelência, a Fluxbot está sempre à frente 
         },
         "13": {
           "title": "Inspire-se",
-          "description": ""
+          "description": "A Inspire-se, marca de moda feminina fundada em Cachoeiro de Itapemirim, nasceu com a missão de transformar e inspirar suas clientes. Mais do que roupas, oferecemos estilo, confiança e autenticidade para mulheres que desejam se expressar através da moda. Com uma seleção cuidadosa de peças, trazemos tendências e elegância para o dia a dia."
         },
         "14": {
           "title": "JHM",

@@ -11,7 +11,7 @@ const projects = [
   {
     id: 1,
     images: [
-      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724222/1_ciutdq.jpg",
+      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1742392482/1_1_g3hauu.jpg",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739671865/3_vjsp2c.jpg",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739671873/4_ya0qg2.jpg",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739671885/5_dpqjft.jpg",
@@ -50,7 +50,7 @@ const projects = [
   {
     id: 3,
     images: [
-      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724620/capa-behance_iztuwt.jpg",
+      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1742392851/capa-behance_a9ymnj.jpg",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724629/1_yq6ggk.png",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724636/2_dlcpu9.png",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724633/3_fekpae.png",
@@ -210,7 +210,7 @@ const projects = [
   {
     id: 12,
     images: [
-      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724337/1_zifwkr.png",
+      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1742392597/Horac%C3%ADo-capa-behance_1_mpj3jq.jpg",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724339/2_jeywst.png",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724337/3_vber1m.png",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724339/4_z8gmyv.png",
@@ -223,7 +223,7 @@ const projects = [
   {
     id: 13,
     images: [
-      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724300/1_mkknry.png",
+      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1742392683/capa-behance-inspirese_medsl1.jpg",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724303/2_gptpcp.png",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724301/3_jcqldv.png",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724303/2_gptpcp.png",
@@ -257,7 +257,7 @@ const projects = [
   {
     id: 15,
     images: [
-      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724330/1_i44mnz.png",
+      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1742392739/valu_capa_g3haq3.jpg",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724330/2_bkng0p.png",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724328/3_ceytdx.png",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724328/4_jq02d7.png",
