@@ -50,7 +50,7 @@ export const Contact = () => {
             whileHover={{ scale: 1.1 }}
             className="text-gray-600 hover:text-blue-600 transition-colors"
           >
-            <img src= "/images/wpp.svg" alt="Behance" width={24} height={24} />
+            <img src= "src/images/wpp.svg" alt="Behance" width={24} height={24} />
           </motion.a>
           <motion.a
             href="https://www.behance.net/ryanwrld"
@@ -59,7 +59,7 @@ export const Contact = () => {
             whileHover={{ scale: 1.1 }}
             className="text-gray-600 hover:text-blue-600 transition-colors"
           >
-            <img src= "/images/BEHANCE.svg" alt="Behance" width={24} height={24} />
+            <img src= "src/images/BEHANCE.svg" alt="Behance" width={24} height={24} />
           </motion.a>
 
         </div>
