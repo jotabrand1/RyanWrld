@@ -2,12 +2,13 @@
 
 Você pode acessá-lo com este link: [ryanwrld.com.br](https://www.ryanwrld.com.br).
 
-💻 **Sobre**  
+![Captura de tela 2025-03-20 000108](https://github.com/user-attachments/assets/a72e473c-cbf0-4faa-b124-8a78d610703a)
+
+ **Sobre**  
 O Portfólio de Ryan Wrld é uma aplicação online criada para apresentar o trabalho de Ryan, um talentoso designer gráfico. O site permite que os usuários explorem projetos de branding, design de interfaces, ilustrações e muito mais. O site é desenvolvido utilizando **React** e **TypeScript**, oferecendo uma experiência moderna, escalável e dinâmica.
 
-O deploy para produção foi feito com Netlify e está disponível neste endereço.
 
-🚀 **Tecnologias**  
+ **Tecnologias**  
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - React.js
@@ -18,7 +19,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - HTML5
 - CSS3
 
-✨ **Funcionalidades**  
+ **Funcionalidades**  
 Algumas funcionalidades que valem a pena destacar:
 
 ✔ Galeria de Projetos: Navegue pelos trabalhos mais recentes de Ryan.  
@@ -27,31 +28,48 @@ Algumas funcionalidades que valem a pena destacar:
 ✔ Design Responsivo: Acessível em dispositivos móveis e desktops.  
 ✔ Interações Dinâmicas: Animações e transições suaves com React.
 
-👨‍💻 **Rodando a Aplicação**  
+ **Rodando a Aplicação**  
 Para executar o projeto localmente, siga os passos abaixo:
-
 1. **Clonando o projeto**
    ```bash
    git clone https://github.com/jotabrand1/ryanwrld-portfolio.git
-Navegue até a pasta do projeto:
-cd ryanwrld-portfolio
-
-Instale as dependências:
-npm install
-
-Execute a aplicação:
+2. **Navegue até a pasta do projeto:**
+```bash
+   cd ryanwrld-portfolio
+```
+3. **Instale as dependências:**
+```bash
+   npm install
+```
+4. **Execute a aplicação:**
+```bash
+   npm start
+```
 O app estará disponível em: http://localhost:3000
-npm start
 
-👨‍💻 Contribuindo com a Aplicação
+ Contribuindo com a Aplicação
 
-Crie um fork do projeto
-Faça as modificações na branch principal
-Faça pull requests para a branch principal
+1. Crie um fork do projeto
+2. Crie uma nova branch para suas alterações:
+```bash
+   npm start
+```
+3. Realize as modificações e faça commit:
+```bash
+   git commit -m "Adiciona nova funcionalidade"
+```
+4. Envie as alterações para o seu fork:
+```bash
+   git commit -m "Adiciona nova funcionalidade"
+```
+5. Abra um Pull Request para a branch principal do projeto.
+   
 
-🎨 Design de Interface
-A interface do projeto foi desenvolvida utilizando o software Figma. Você pode visualizar o layout aqui.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+## ** Licença**
 
-Desenvolvido com 💛 por João Brandão 👁️‍🗨️
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/birobirobiro/nlw-heat-origin-v2/blob/main/.github/LICENSE.md) para mais detalhes.
+
+
+Desenvolvido por João Brandão 👁️‍🗨️
