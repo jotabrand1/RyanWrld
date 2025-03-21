@@ -210,7 +210,7 @@ const projects = [
   {
     id: 12,
     images: [
-      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724337/1_zifwkr.png",
+      "https://res.cloudinary.com/dtf69ghtx/image/upload/v1742570779/Horac%C3%ADo-capa-behance-2_mrqrpk.jpg",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724339/2_jeywst.png",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724337/3_vber1m.png",
       "https://res.cloudinary.com/dtf69ghtx/image/upload/v1739724339/4_z8gmyv.png",
